@@ -6,7 +6,9 @@
 
 ## 文件`SSR.7z`
 windows 使用，添加节点或者直接添加`服务器订阅`->`SSR服务器订阅`,可以自己寻找服务器订阅地址，也可以点击[此处](https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com), 如果出现的是一大串字符， 证明订阅可用，复制它的`URL`到`SSR服务器订阅`, 系统代理使用全局模式或者PAC模式目前看来都可以. 
+
 [免费节点](https://free-ss.site/)
+
 #### 特殊事件无法使用属于正常
 
 ### 总结
